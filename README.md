@@ -7,7 +7,7 @@ This code is a test to set up my development enviornemt and make sure that it ru
 
 This is all a beginning so that I will be able to code smoothly and professionally in the future.
 
-[Software Demo Video](FillInLater)
+[Software Demo Video](https://youtu.be/PlM0rPyzg78)
 
 # Development Environment
 
@@ -16,5 +16,4 @@ Using VSCode with the python extenion enabled, I was able to run the program wit
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Hello World Video Demonstration](https://video.byui.edu/media/t/1_zyyx43ke)
